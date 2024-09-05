@@ -2,9 +2,9 @@
   "name": "Service Menu",
   "headline": "for LG webOS TVs",
   "version": "1.0.0",
-  "parameter": "content:https://webosappclub.github.io/msx/start.json",
+  "parameter": "content:https://kulibin-m.github.io/webosapp/msx/start.json",
   "action": "[settings:validate_links:0|home]",
-  "dictionary": "https://webosappclub.github.io/msx/lang/ru.json",
+  "dictionary": "https://kulibin-m.github.io/webosapp/msx/lang/ru.json",
    "template": {
       "layout": "0,0,3,3",
       "align": "center",
@@ -16,21 +16,21 @@
             "headline": "ezAdjust",
             "image": "",
             "text": "SERVICE MENU",
-            "action": "link:https://webosappclub.github.io/msx/ezadjust/ezadjust.html"
+            "action": "link:https://kulibin-m.github.io/webosapp/msx/ezadjust/ezadjust.html"
       },
       {
             "title":"",
             "headline": "inStart",
             "image": "",
             "text": "SERVICE MENU",
-            "action": "link:https://webosappclub.github.io/msx/instart/instart.html"
+            "action": "link:https://kulibin-m.github.io/webosapp/msx/instart/instart.html"
       },
       {
             "title":"",
             "headline": "inStop",
             "image": "",
             "text": "SERVICE MENU",
-            "action": "link:https://webosappclub.github.io/msx/instop/instop.html"
+            "action": "link:https://kulibin-m.github.io/webosapp/msx/instop/instop.html"
       }	  
    ]
 }
